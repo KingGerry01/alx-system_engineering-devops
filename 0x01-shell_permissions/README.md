@@ -3,3 +3,4 @@ John Doe - sets the mode of the file hello to -rwxr-x-wx 1 julien julien 23 Sep 
 Look in the mirrorr - sets the mode of the file hello the same as olleh’s mode
 Directories - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 More Directories - creates a directory called my_dir with permissions 751 in the working directory
+Change group - changes the group owner to school for the file hello
