@@ -14,3 +14,4 @@ What's New - that displays the 10 newest files in the current directory
 Being Unique is better than being perfect - that takes a list of words as input and prints only words that appear exactly once
 It must be in that file - Display lines containing the pattern “root” from the file /etc/passwd
 Count that word - Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+What's next - Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
