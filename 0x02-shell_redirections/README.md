@@ -21,3 +21,4 @@ A to Z - Replace all characters A and c from input to Z and e respectively
 Without C, you would live in hiago - Create a script that removes all letters c and C from input
 esreveR - Write a script that reverse its input
 DJ Cut Killer - Write a script that displays all users and their home directories, sorted by users
+Empty casks makes the most noise - Write a command that finds all empty files and directories in the current directory and all sub-directories
