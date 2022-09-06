@@ -23,3 +23,4 @@ esreveR - Write a script that reverse its input
 DJ Cut Killer - Write a script that displays all users and their home directories, sorted by users
 Empty casks makes the most noise - Write a command that finds all empty files and directories in the current directory and all sub-directories
 A gif is worth ten thousands words - that lists all the files with a .gif extension in the current directory and all its sub-directories
+Acrostic - Create a script that decodes acrostics that use the first letter of each line
