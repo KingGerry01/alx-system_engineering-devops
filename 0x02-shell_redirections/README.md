@@ -24,3 +24,4 @@ DJ Cut Killer - Write a script that displays all users and their home directorie
 Empty casks makes the most noise - Write a command that finds all empty files and directories in the current directory and all sub-directories
 A gif is worth ten thousands words - that lists all the files with a .gif extension in the current directory and all its sub-directories
 Acrostic - Create a script that decodes acrostics that use the first letter of each line
+The biggest fan - Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
