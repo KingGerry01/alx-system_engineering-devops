@@ -19,3 +19,4 @@ I hate bins - Display all the lines in the file /etc/passwd that do not contain 
 Letters only please - Display all lines of the file /etc/ssh/sshd_config starting with a letter
 A to Z - Replace all characters A and c from input to Z and e respectively
 Without C, you would live in hiago - Create a script that removes all letters c and C from input
+esreveR - Write a script that reverse its input
