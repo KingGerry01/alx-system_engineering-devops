@@ -5,3 +5,4 @@ What about 2 - Display the content of /etc/passwd and /etc/hosts
 Last lines of a file - Display the last 10 lines of /etc/passwd
 I'd prefer the first ones actually - Display the first 10 lines of /etc/passwd
 Line #2 - script that displays the third line of the file iacta
+It is a good file that cuts iron without making a noise - that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
