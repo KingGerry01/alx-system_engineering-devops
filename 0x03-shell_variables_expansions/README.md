@@ -7,3 +7,6 @@ Local variables - Create a script that lists all local variables and environment
 Local Variable - Create a script that creates a new local variable.
 Name: BEST
 Value: School
+Global Variable - Create a script that creates a new global variable.
+Name: BEST
+Value: School
