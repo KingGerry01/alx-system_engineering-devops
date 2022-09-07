@@ -4,3 +4,6 @@ The path to success is to take massive, determined action - Add /action to the P
 If the path be beautiful, lets not ask where it leads - Create a script that counts the number of directories in the PATH
 Global variables - Create a script that lists environment variables
 Local variables - Create a script that lists all local variables and environment variables, and functions.
+Local Variable - Create a script that creates a new local variable.
+Name: BEST
+Value: School
